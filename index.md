@@ -5,7 +5,7 @@ I am a computer science final year student, Aspiring to be a ML Engineer someday
 ##### Connect with me:
 [Linkedin](https://linkedin.com/in/akpdata)
 [Github](https://github.com/ashish-hacker)
-[Mail](akpanigrahy26@gmail.com) 
+[![](./gmail_icon.png)](mailto:akpanigrahy26@gmail.com) 
 [Leetcode](https://leetcode.com/litAshish)
 
 
