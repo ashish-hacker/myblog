@@ -2,7 +2,7 @@
 ##### Quick Intro :
 I am a computer science final year student, Aspiring to be a ML Engineer someday. This is my blogs website. Here I post about my programming and career journey. Also you can find about my ongoing projects and completed projects here. 
 
-###### Connect with me:
+##### Connect with me:
 [Linkedin](https://linkedin.com/in/akpdata)
 [Github](https://github.com/ashish-hacker)
 [Mail](akpanigrahy26@gmail.com)
